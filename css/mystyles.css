@@ -1,25 +1,25 @@
 p{
-    color: red;
+    color: rgb(2, 2, 2);
 }
 
 a.clairelink{
-    color:aquamarine ;
+    color:rgb(125, 21, 169) ;
     padding: 0px 30px;
     margin-left: 10px;
     border-radius: 50px;
 }
 
 a.clairelink:hover{
-    background-color: aquamarine;
+    background-color: rgb(117, 25, 115);
     color: white;
 }
 
 div.clairediv{
-    background-color: rgb(223, 238, 233);
+    background-color: rgb(182, 231, 215);
     padding: 30px;
     border-radius: 10px;
     box-sizing: border-box;
-    border: 2px solid rgb(1, 99, 99);
+    border: 2px solid rgb(160, 203, 203);
     width: 95%;
     height: 100px;
     margin: 10px auto;
@@ -27,7 +27,7 @@ div.clairediv{
 }
 
 section#about.resume-section{
-    background-color: rgb(207, 173, 208);
+    background-color: rgb(235, 196, 236);
 }
 
 section{
@@ -39,5 +39,23 @@ section{
     background-attachment: fixed;
     padding: 20px;
     margin: 20px;
-    border: black 2px solid 
+    border: rgb(7, 7, 7) 2px solid 
 }
+
+.claireserif{
+    font-family:  "Noto Serif TC", serif;;
+}  
+
+a{
+    color: black;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+h3{
+    color: black;
+}
+h4{
+    color: rgb(0, 0, 0);
+}
+
