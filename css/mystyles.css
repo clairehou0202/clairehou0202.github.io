@@ -63,14 +63,14 @@ h4{
     height: 200px;
     overflow: hidden;
     object-fit: cover;
-    margin: 10px 5px;
+    margin: 5px 10px;
     border-radius: 10px;
 }
 
 .clairerec{
-    height: 300px;
+    height: 200px;
     overflow: hidden;
     object-fit: cover;
-    margin: 5px 10px;
+    margin:10px 5px;
     border-radius: 10px;
 }
