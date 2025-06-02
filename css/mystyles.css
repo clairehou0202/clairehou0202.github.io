@@ -60,7 +60,7 @@ h4{
 }
 
 .clairecrop{
-    height: 200px;
+    height: 250px;
     overflow: hidden;
     object-fit: cover;
     margin: 5px 10px;
