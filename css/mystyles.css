@@ -66,29 +66,3 @@ h4{
     margin: 10px 5px;
     border-radius: 10px;
 }
-
-.marquee-container {
-    width: 100%;
-    overflow: hidden;
-    white-space: nowrap;
-    box-sizing: border-box;
-}
-
-.marquee-content {
-    display: inline-block;
-    animation: scroll-left 10s linear infinite;
-}
-
- @keyframes scroll-left {
-    0% {
-      transform: translateX(100%);
-    }
-    100% {
-     transform: translateX(-100%);
-    }
-}
-
- img {
-    width: 150px;
-    margin-right: 10px;
-}
