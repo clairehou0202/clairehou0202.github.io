@@ -27,12 +27,11 @@ div.clairediv{
 }
 
 section#about.resume-section{
-    background-color: rgb(235, 196, 236);
+    background-color: 	#E6CAFF;
 }
 
 section{
     background-color: 	#E6CAFF;
-    background-image: url(image1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -73,3 +72,5 @@ h4{
     object-fit: cover;
     display: block;
 }
+
+
