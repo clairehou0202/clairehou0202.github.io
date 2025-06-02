@@ -11,15 +11,19 @@ a.clairelink{
 
 a.clairelink:hover{
     background-color: rgb(117, 25, 115);
+    color: white;
 }
 
 div.clairediv{
     background-color: rgb(182, 231, 215);
     padding: 30px;
-    border-radius: 30px;
+    border-radius: 10px;
     box-sizing: border-box;
+    border: 2px solid rgb(160, 203, 203);
     width: 95%;
     height: 100px;
+    margin: 10px auto;
+    overflow: auto;
 }
 
 section#about.resume-section{
